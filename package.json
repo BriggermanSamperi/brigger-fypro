@@ -1,0 +1,27 @@
+{
+  "name": "brigger-fypro",
+  "version": "1.0.0",
+  "description": "Succinctly sums up values. It provides quick and concise solutions for sum calculations, ensuring efficiency and accuracy in your operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "brigger-fypro": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BriggermanSamperi/brigger-fypro.git"
+  },
+  "homepage": "https://github.com/BriggermanSamperi/brigger-fypro/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "BriggermanSamperi",
+  "license": "MIT"
+}
